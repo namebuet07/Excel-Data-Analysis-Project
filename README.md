@@ -1,4 +1,4 @@
-# Excel Human Resources Data Analysis
+# Human Resources Data Analysis
 
 ## Project Overview
 This project analyzes Human Resources data using Microsoft Excel.
